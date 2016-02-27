@@ -1,7 +1,7 @@
 # -*- encoding : utf-8 -*-
 require File.dirname(__FILE__) + '/test_helper'
 
-class PersistizeTest < Test::Unit::TestCase
+class PersistizeTest < MiniTest::Unit::TestCase
   
   context "Using persistize" do
   
